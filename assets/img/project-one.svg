@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder for project one">
+  <rect width="1600" height="900" fill="#111111"/>
+  <g fill="#2a2a2a">
+    <rect x="0" y="0" width="1600" height="1"/>
+    <rect x="0" y="899" width="1600" height="1"/>
+  </g>
+  <g font-family="JetBrains Mono, ui-monospace, monospace" fill="#666666" text-anchor="middle">
+    <text x="800" y="440" font-size="36">project-one.png</text>
+    <text x="800" y="490" font-size="22" fill="#444">TODO: replace with real screenshot</text>
+  </g>
+</svg>
