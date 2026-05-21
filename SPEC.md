@@ -199,12 +199,12 @@ portfolio/
 
 Things the owner needs to provide before launch:
 
-- [ ] Full name
-- [ ] Hero tagline (one line)
-- [ ] About bio (2–3 paragraphs)
+- [ ] Full name: Le Nhat Quang
+- [ ] Hero tagline (one line) Work smarter, not harder
+- [ ] About bio (2–3 paragraphs) Read on my linked https://www.linkedin.com/in/le-nhat-quang-54a753249/?isSelfProfile=true
 - [ ] Skill lists: languages, databases, other tools (Outsystems is the anchor)
-- [ ] 3–4 prior roles: company, title, dates, 2–4 bullets each, tech used
-- [ ] 2–3 featured projects: name, one-liner, longer description, tech, GitHub URL, live demo URL (if any), screenshot
+- [ ] 3–4 prior roles: Read on my linked
+- [ ] 2–3 featured projects: Read on my linked
 - [ ] 3–5 "why hire me" claims with one-line support
 - [ ] 2–3 testimonials with attribution
 - [ ] Contact email
